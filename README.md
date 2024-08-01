@@ -21,3 +21,9 @@ Una vez descargado el codigo fuente, junto con la planilla y depositados en una 
 
 
 <b>El script crea todas la estructura de tablas y posteriormente realiza los procesos ETL para su ingesta en Postgres.</b>
+
+Arquitectura Alto nivel
+![image](https://github.com/user-attachments/assets/5c6f3d8b-ae4a-4ed9-862d-4ddeb77536ec)
+
+
+
