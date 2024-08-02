@@ -26,7 +26,7 @@ Arquitectura Alto nivel
 ![image](https://github.com/user-attachments/assets/5c6f3d8b-ae4a-4ed9-862d-4ddeb77536ec)
 
 
-En la lista de archivos se encuentra el DER. Se puede abrir con el ERD tool de Postgres. Se encuentran 5 diagramas de estrellas cada uno con su tabla de hechos como centro(algunas comparten dimensiones pero se encuentran separados para mejor comprension).<br><br><br>
+En la lista de archivos se encuentra el DER. Se puede abrir con el ERD tool de Pgadmin. Se encuentran 5 diagramas de estrellas cada uno con su tabla de hechos como centro(algunas comparten dimensiones pero se encuentran separados para mejor comprension).<br><br><br>
 Ejemplo Diagrama con tabla de hechos Ventas
 ![image](https://github.com/user-attachments/assets/6620c89d-0397-402c-be7d-bf98a006551f)
 
