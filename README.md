@@ -1,6 +1,6 @@
 # car_sales_ETL_python
 
-Este script python se encarga de recopilar la informacion de la planilla excel Car_Sales-new.csv y realizar los procesos ETL para posteriormente crear un Datawearehouse en Postgres
+Este script python se encarga de recopilar la informacion de la planilla excel CarSales-new.csv y realizar los procesos ETL para posteriormente crear un Datawearehouse en Postgres
 
 Una vez descargado el codigo fuente, junto con la planilla y depositados en una carpeta es necesario:
 - Crear la base de datos postgres con el nombre <b>cars_sales_datawarehouse</b>
